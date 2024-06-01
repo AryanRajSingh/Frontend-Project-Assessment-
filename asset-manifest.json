@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Frontend-Project-Assessment-/static/css/main.f5578fbc.css",
+    "main.js": "/Frontend-Project-Assessment-/static/js/main.70a93963.js",
+    "static/js/453.07708a82.chunk.js": "/Frontend-Project-Assessment-/static/js/453.07708a82.chunk.js",
+    "static/media/video_01.mp4": "/Frontend-Project-Assessment-/static/media/video_01.ffc5b77e4dad9979bd93.mp4",
+    "static/media/image-07.png": "/Frontend-Project-Assessment-/static/media/image-07.ef88e14b35dfd75db662.png",
+    "static/media/image-06.jpg": "/Frontend-Project-Assessment-/static/media/image-06.375dc855fb4f8bdec2da.jpg",
+    "static/media/image-04.jpg": "/Frontend-Project-Assessment-/static/media/image-04.958a7354da1ae585984d.jpg",
+    "static/media/image-01.jpg": "/Frontend-Project-Assessment-/static/media/image-01.ce6d7cea7ac8d8469218.jpg",
+    "static/media/image-05.jpg": "/Frontend-Project-Assessment-/static/media/image-05.8a09af1bafccba61525d.jpg",
+    "static/media/image-03.jpg": "/Frontend-Project-Assessment-/static/media/image-03.89c9f22fff3ee052c5be.jpg",
+    "static/media/image-02.jpg": "/Frontend-Project-Assessment-/static/media/image-02.5d2b35a92ea4c89fd4c4.jpg",
+    "static/media/300.jpeg": "/Frontend-Project-Assessment-/static/media/300.eb4fe18574d541df339f.jpeg",
+    "static/media/300 (10).jpeg": "/Frontend-Project-Assessment-/static/media/300 (10).ff1e8511ec0344bf4e62.jpeg",
+    "static/media/300 (1).jpeg": "/Frontend-Project-Assessment-/static/media/300 (1).864080257a441afc546f.jpeg",
+    "index.html": "/Frontend-Project-Assessment-/index.html",
+    "main.f5578fbc.css.map": "/Frontend-Project-Assessment-/static/css/main.f5578fbc.css.map",
+    "main.70a93963.js.map": "/Frontend-Project-Assessment-/static/js/main.70a93963.js.map",
+    "453.07708a82.chunk.js.map": "/Frontend-Project-Assessment-/static/js/453.07708a82.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5578fbc.css",
+    "static/js/main.70a93963.js"
+  ]
+}
