@@ -1,0 +1,124 @@
+/* src/ContainerSection3.css */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+.container-title {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #8B0203;
+    font-weight: bold;
+}
+.container-section3 {
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    position: relative;
+    width: 80%; 
+    margin: 0 auto;
+  }
+  
+  .container-section3 h2 {
+    font-size: 1.5em;
+    margin-bottom: 10px;
+  }
+  
+  .image-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+  }
+  
+  .image-grid img {
+    width: 100%;
+    height: -webkit-fill-available;
+    /* border-radius: 10px; */
+    cursor: pointer;
+  }
+  
+  .image-grid img:hover {
+    opacity: 0.8;
+  }
+  
+  .explore-button-container {
+    margin-top: 20px;
+  }
+  
+  .explore-button {
+    padding: 10px 20px;
+    font-size: 1em;
+    border: 1px solid black;
+    color: black;
+    background-color: white;
+    /* border: none; */
+    /* border-radius: 5px; */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .explore-button:hover {
+    background-color: #8B0203;
+  }
+  
+  /* Lightbox styles */
+  .react-image-lightbox {
+    z-index: 9999;
+  }
+
+  @media screen and (max-width: 1200px) {
+    .container-section3 {
+        flex-direction: column;
+      }
+    }
+  @media screen and (max-width: 1024px) {
+    .container-section3 {
+        flex-direction: column;
+      }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .container-section3 {
+        flex-direction: column;
+        text-align: -webkit-left;
+      }
+  }
+  @media screen and (max-width: 480px) {
+    .container-section3 {
+        flex-direction: column;
+        text-align: -webkit-left;
+      }
+      .explore-button {
+        margin-top: 10px;
+        border: 1px solid black;
+        padding: 10px 20px;
+        font-size: 1em;
+        color: black;
+        background-color: white;
+        /* border: none; */
+        border-radius: 1px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        width: -webkit-fill-available;
+      }
+  }
+  @media screen and (max-width: 320px) {
+    .container-section3 {
+        flex-direction: column;
+        text-align: -webkit-left;
+      }
+    .explore-button {
+        margin-top: 10px;
+        border: 1px solid black;
+        padding: 10px 20px;
+        font-size: 1em;
+        color: black;
+        background-color: white;
+        /* border: none; */
+        border-radius: 1px;
+        cursor: pointer;
+        transition: background-color 0.3s ease;
+        width: -webkit-fill-available;
+      }
+  }
+  
